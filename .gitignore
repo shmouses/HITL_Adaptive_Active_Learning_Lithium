@@ -145,18 +145,20 @@ ehthumbs.db
 Thumbs.db
 
 # Large data files (consider using Git LFS for these)
-*.csv
-*.xlsx
-*.npy
-*.h5
-*.hdf5
-*.pkl
-*.pickle
+# *.csv
+# *.xlsx
+# *.npy
+# *.h5
+# *.hdf5
+# *.pkl
+# *.pickle
 
 # Temporary files
 *.tmp
 *.temp
 *.bak
+~$*.xlsx
+~$*.xls
 
 # Log files
 *.log
