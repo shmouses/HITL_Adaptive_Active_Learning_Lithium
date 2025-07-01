@@ -43,8 +43,7 @@ Our HITL-AL framework addresses these challenges by:
 
 - **Accelerated Discovery**: Achieved battery-grade lithium carbonate in only 38 experiments
 - **Critical Parameter Discovery**: Identified the counterintuitive role of cold reactor temperature in magnesium removal
-- **Superior Performance**: HITL-AL approach showed 100% success rate vs. 67% for automated Bayesian optimization
-- **Impurity Tolerance**: Increased tolerance to magnesium impurities by 3.5x compared to baseline methods
+- **Impurity Tolerance**: Findings resulted in increased tolerance to magnesium impurities by 3.5x compared to baseline methods
 
 ## 📁 Repository Structure
 
