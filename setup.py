@@ -88,6 +88,6 @@ setup(
         "Bug Reports": "https://github.com/shmouses/HITL_Adaptive_Active_Learning_Lithium/issues",
         "Source": "https://github.com/shmouses/HITL_Adaptive_Active_Learning_Lithium",
         "Documentation": "https://github.com/shmouses/HITL_Adaptive_Active_Learning_Lithium/docs",
-        "Paper": "https://doi.org/10.1038/s41524-024-01280-z",
+        "Paper": "",
     },
 ) 
