@@ -75,7 +75,7 @@ Before installing the project, ensure you have the following prerequisites:
 
 4. **Verify installation**:
    ```bash
-   python -c "import numpy, pandas, sklearn, optuna, shap, platypus; print('Installation successful!')"
+   python -c "import numpy, pandas, sklearn, optuna, shap, platypus; print('Installation successful')"
    ```
 
 ### Method 3: Manual Pip Installation

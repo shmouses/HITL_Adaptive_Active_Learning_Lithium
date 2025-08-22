@@ -104,7 +104,7 @@ HITL_Adaptive_Active_Learning_Lithium/
 
 3. **Verify installation**:
    ```bash
-   python -c "import numpy, pandas, sklearn, optuna; print('Installation successful!')"
+   python -c "import numpy, pandas, sklearn, optuna; print('Installation successful')"
    ```
 
 ### Option 2: Manual Installation
