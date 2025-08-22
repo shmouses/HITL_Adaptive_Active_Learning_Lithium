@@ -21,7 +21,7 @@
 
 ## 🔬 Overview
 
-This repository contains the complete implementation and supplementary materials for the research paper **"Human-AI Synergy in Adaptive Active Learning for Continuous Lithium Carbonate Crystallization Optimization"** published in *npj Computational Materials*.
+This repository contains the complete implementation and supplementary materials for the research paper **"Human-AI Synergy in Adaptive Active Learning for Continuous Lithium Carbonate Crystallization Optimization"** published in *[TBA]*.
 
 Our research demonstrates a novel Human-in-the-Loop Active Learning (HITL-AL) framework that significantly accelerates the optimization of continuous lithium carbonate crystallization from low-grade brines. The framework combines human expertise with AI-driven exploration to discover optimal process conditions for producing battery-grade lithium carbonate.
 
